@@ -1,0 +1,15 @@
+@font-face {
+    font-family: "AkayaKanadaka";
+    src: url(FUENTE/AkayaKanadaka.ttf)
+  }
+  h1 {
+font-family: Akayakanadaka;
+color: white;
+background-color: orange;
+height: 90px;
+text-align: center;
+padding-top: 14px;
+text-shadow: red 6px 0;
+  }
+
+

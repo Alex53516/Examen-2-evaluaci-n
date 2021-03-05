@@ -1,0 +1,143 @@
+
+
+  ul {
+    list-style-type: none;
+    border: orange 2px solid;
+    font-size: 150%;
+
+
+  }
+  
+  li {
+
+    color: white;
+    background-color: #F6E3CA;
+    border: #D7C8B6 2px solid;
+    float: left;
+    margin-right: 10px;
+    padding:0 4px;
+    
+  }
+  
+  p.p1 {
+      margin-top: 100px;
+    background-color: lightsalmon;
+    height: 250px;
+    left: 500px;
+    position: relative;
+    top: 0;
+    width: 500px;
+    z-index: 1;
+    border: red 3px solid;
+    color: red;
+  }
+  
+  p.p2 {
+    background-color:yellow;
+    height: 200px;
+    left: 200px;
+    position: relative;
+    top: -50px;
+    width: 450px;
+    border: palegoldenrod 3px solid;
+    text-align: left;
+    letter-spacing: 10px;
+   color: sandybrown;
+   font-size: 13px;
+    
+  }
+  
+  p.p3 {
+    background-color: lightblue;
+    height: 200px;
+    left: 800px;
+    position: relative;
+    top: -270px;
+    width: 450px;
+    border: skyblue 3px solid;
+    text-align: right;
+    
+    color: orange;
+  }
+  
+  span {
+    letter-spacing: 10px;
+    text-decoration: underline;
+    
+  }
+
+
+  span p2 {
+    letter-spacing: 10px;
+    text-decoration: underline;
+    
+  }
+
+  div{
+border-bottom: orange 3px solid;
+border-left: orange 3px solid ;
+border-right:  orange 3px solid;
+background-color: yellow;
+
+
+
+  }
+
+  html {
+    background: url("/IMG/naranja2.svg") bottom top repeat-y;
+    padding: 0 70px;
+
+  }
+
+
+  a:hover {
+    background-color: orangered;
+    color:orangered;
+    color: white;
+  }
+
+
+  section{
+
+background-color: gold;
+
+
+  }
+
+p.p4{
+
+border: orange 2px solid;
+height: 40px;
+background-color: orange;
+
+}
+
+
+
+p.p5{
+padding: 3px;
+    border: orange 2px solid;
+    height: 30px;
+    background-color: yellow;
+    color: orange;
+    text-align: center;
+    
+    
+    
+    }
+    
+
+
+  p.p6{
+ 
+text-align: left;
+    border: orange 1px solid;
+    height: 100px;
+    width: 500px;
+    background-color: orange;
+    color: white;
+    text-align: center;
+    float: right;
+
+    
+      }
